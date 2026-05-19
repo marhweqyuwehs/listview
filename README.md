@@ -1,4 +1,3 @@
-```markdown
 # BookListView
 
 圖書管理程式  
